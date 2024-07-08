@@ -1,0 +1,75 @@
+/* -------------------------------------------------------------------- */
+/* http://jigsaw.w3.org/css-validator/  */
+/* -------------------------------------------------------------------- */
+/*  */
+/*  */
+/*  */
+/*  */
+/* -------------------------------------------------------------------- */
+
+/* -------------------------------------------------------------------- */
+/* standard */
+/* -------------------------------------------------------------------- */
+
+
+
+/* -------------------------------------------------------------------- */
+/* class selector (generic) .class */
+/* -------------------------------------------------------------------- */
+
+
+.cssMyLib_CookiesWarningMessage-all {
+  background-color:#e4e4e4;
+  min-width:922px;
+}
+
+.cssMyLib_CookiesWarningMessage-all .cssMyLib_CookiesWarningMessage-table{
+  width:922px;
+  margin:0 auto;
+  height:40px;
+  position:relative;
+}
+
+.cssMyLib_CookiesWarningMessage-all .cssMyLib_CookiesWarningMessage-table p {
+  width: 800px;
+  font:normal 12px Arial,Helvetica,sans-serif;
+  color:#575757;
+  padding:5px 0;
+}
+
+.cssMyLib_CookiesWarningMessage-all .cssMyLib_CookiesWarningMessage-table ul {
+  position:absolute;
+  right:0;
+  bottom: 6px;
+}
+
+.cssMyLib_CookiesWarningMessage-all .cssMyLib_CookiesWarningMessage-table ul li {
+  display:block;
+  float:left;
+  width:auto;
+  margin-left:8px
+}
+
+.cssMyLib_CookiesWarningMessage-all .cssMyLib_CookiesWarningMessage-table ul li a {
+  background-color:#d1374c;
+  display:block;
+  color:#FFF;
+  text-decoration:none;
+  font:bold 12px Arial, Helvetica, sans-serif;
+  text-align:center;
+  padding:3px 5px
+}
+
+
+/* -------------------------------------------------------------------- */
+/* class selector (specific) standard.class */
+/* -------------------------------------------------------------------- */
+
+
+
+
+/* -------------------------------------------------------------------- */
+/* id selector #id */
+/* -------------------------------------------------------------------- */
+
+
